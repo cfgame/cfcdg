@@ -1,1 +1,1 @@
-{"serveripaddress":"chanvanvan.mobi",serveripaddressws":"ws://chanvanvan.mobi:18090","myip":"chanvanvan.mobi","newsip":"chanvanvan.mobi"}
+{"serveripaddress":"chanvanvan.mobi","serveripaddressws":"ws://chanvanvan.mobi:18090","myip":"chanvanvan.mobi","newsip":"chanvanvan.mobi"}
