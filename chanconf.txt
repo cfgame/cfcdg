@@ -1,1 +1,0 @@
-{"serveripaddress":"mobi.chandangian.com","serveripaddressws":"ws://mobi.chandangian.com:18090","myip":"mobi.chandangian.com","newsip":"mobi.chandangian.com"}
