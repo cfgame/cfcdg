@@ -1,1 +1,1 @@
-{"serveripaddress":"mobi.chandangian.com","serveripaddressws":"ws://mobi.chandangian.com:18090","myip":"mobi.chandangian.com","newsip":"mobi.chandangian.com","informtext":"Máy chủ đang bảo trì, bạn vui lòng quay lại sau."}
+{"serveripaddress":"mobi.chandangian.com","serveripaddressws":"ws://mobi.chandangian.com:18090","myip":"mobi.chandangian.com","newsip":"mobi.chandangian.com"}
